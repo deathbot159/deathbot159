@@ -1,6 +1,4 @@
-# <center>👋 Hi, I'm Tycjan Falana ([@deathbot159](https://github.com/deathbot159)) 👋<br/><br/><img src="https://github.com/deathbot159/deathbot159/blob/main/icons/NJS.png?raw=true" width="32"> <img src="https://github.com/deathbot159/deathbot159/blob/main/icons/TS.png?raw=true" width="32"> <img src="https://github.com/deathbot159/deathbot159/blob/main/icons/JS.png?raw=true" width="32"> <img src="https://github.com/deathbot159/deathbot159/blob/main/icons/express.png?raw=true" width="32"> <img src="https://github.com/deathbot159/deathbot159/blob/main/icons/electron.png?raw=true" width="32"> <img src="https://github.com/deathbot159/deathbot159/blob/main/icons/mysql.png?raw=true" width="32"></center>
-
----
+# <p align="center">👋 Hi, I'm Tycjan Falana ([@deathbot159](https://github.com/deathbot159)) 👋<br/><br/><img src="https://github.com/deathbot159/deathbot159/blob/main/icons/NJS.png?raw=true" width="32"> <img src="https://github.com/deathbot159/deathbot159/blob/main/icons/TS.png?raw=true" width="32"> <img src="https://github.com/deathbot159/deathbot159/blob/main/icons/JS.png?raw=true" width="32"> <img src="https://github.com/deathbot159/deathbot159/blob/main/icons/express.png?raw=true" width="32"> <img src="https://github.com/deathbot159/deathbot159/blob/main/icons/electron.png?raw=true" width="32"> <img src="https://github.com/deathbot159/deathbot159/blob/main/icons/mysql.png?raw=true" width="32"></p>
 
 ## 🤔 Who am I?
 
@@ -17,5 +15,5 @@ especially with Japanese architecture and culture.
 
 ## 🙋‍♂️ Social media
 
-<span style="display: flex; align-items: center;"><img src="https://github.com/deathbot159/deathbot159/blob/main/icons/fb.png?raw=true" width="32" style="border: 0px solid white; border-radius: 2px; margin-right: 10px">Facebook:&nbsp;[fb.me/deathbot159](https://fb.me/deathbot159)</span><br/>
-<span style="display: flex; align-items: center;"><img src="https://github.com/deathbot159/deathbot159/blob/main/icons/lIn.png?raw=true" width="38" style="margin-right: 5px"/>LinkedIn:&nbsp;[www.linkedin.com/in/tycjan-falana/](https://www.linkedin.com/in/tycjan-falana/)</span>
+Facebook:&nbsp;[fb.me/deathbot159](https://fb.me/deathbot159)<br/>
+LinkedIn:&nbsp;[www.linkedin.com/in/tycjan-falana/](https://www.linkedin.com/in/tycjan-falana/)
