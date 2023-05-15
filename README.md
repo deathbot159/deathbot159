@@ -22,6 +22,8 @@
 
 ## ⌛ Projects that I have worked on.
 
+&ensp;➡️ [Hardware Rental](https://github.com/deathbot159/hardware-rental) - Simple page to rent/return devices, which was using a Next.js, React, SCSS, Bootstrap for front-end and Express, MongoDB, Redis for back-end.
+
 &ensp;➡️ AetherTale - I was maintaining an server emulator for MMORPG game called NosTale, which was using an OpenNos source code.
 
 &ensp;➡️ AetherPatcher - An updater for game client files written in C#.
