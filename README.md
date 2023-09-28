@@ -2,7 +2,7 @@
 
 ## 🤔 Who am I?
 
-&ensp;📗 I'm a 21 y/o, student of Computer Science (Software Development specialization) at [Wyższa Szkoła Bankowa w Poznaniu, Wydział Ekonomiczny w Szczecinie](https://www.linkedin.com/school/wyższa-szkoła-bankowa-w-szczecinie/).
+&ensp;📗 I'm a 21 y/o, student of Computer Science (Software Development specialization) at [Uniwersytet WSB Merito Szczecin](https://www.linkedin.com/school/wyższa-szkoła-bankowa-w-szczecinie/).
 
 &ensp;❤️ I am fascinated with Node.js, TypeScript and JavaScript.
 
