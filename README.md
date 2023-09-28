@@ -22,13 +22,13 @@
 
 ## ⌛ Projects that I have worked on.
 
-&ensp;➡️ [Hardware Rental](https://github.com/deathbot159/hardware-rental) - Simple page to rent/return devices, which was using a Next.js, React, SCSS, Bootstrap for front-end and Express, MongoDB, Redis for back-end.
+&ensp;➡️ [Hardware Rental](https://github.com/deathbot159/hardware-rental) - Simple web app to rent/return devices, which was using a Next.js, React, SCSS, Bootstrap for front-end and Express, MongoDB, Redis for back-end.
 
 &ensp;➡️ AetherTale - I was maintaining an server emulator for MMORPG game called NosTale, which was using an OpenNos source code.
 
 &ensp;➡️ AetherPatcher - An updater for game client files written in C#.
 
-&ensp;➡️ YouTubeMusicApp - An electron based app which is displaying music.youtube.com side in app window, with some extra features like showing actually playing music in Discord rich presence.
+&ensp;➡️ YouTubeMusicApp - An electron based app which is displaying music.youtube.com site in app window, with some extra features like showing current playing music in Discord rich presence.
 
 &ensp;➡️ GrafikPlus - An application for creating work schedules. 
 
